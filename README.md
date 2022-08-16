@@ -28,3 +28,9 @@ DevOps Engineer
   <a href="https://tigercoin.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
   <a href="mailto:shsfse@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
+
+
+Project List
+-
+- Smart_famr-IoT_data_pipeline : https://github.com/tigercoin-world/Smart_Farm-IoT_data_pipeline/settings
+- telegram_bot-serverless : https://github.com/tigercoin-world/telegram_bot-serverless

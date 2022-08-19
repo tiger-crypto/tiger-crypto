@@ -1,7 +1,4 @@
-
-
-DevOps Engineer
-- 
+# :sparkles: Hi! I'm a DevOps Engineer :sparkles:
 * Digital Information Engineering / Chinese Interpretation and Translation
 * Codestates DevOps Bootcamp
 
@@ -32,5 +29,7 @@ DevOps Engineer
 
 Project List
 -
-- Smart_famr-IoT_data_pipeline : https://github.com/tigercoin-world/Smart_Farm-IoT_data_pipeline/settings
-- telegram_bot-serverless : https://github.com/tigercoin-world/telegram_bot-serverless
+- Smart famrm IoT data pipeline : https://github.com/tigercoin-world/Smart_Farm-IoT_data_pipeline
+- Inventory management system : https://github.com/tiger-crypto/Inventory-management-system
+- Cardano telegram bot : https://github.com/tiger-crypto/cardano-telegram_bot
+- telegram bot serverless : https://github.com/tigercoin-world/telegram_bot-serverless

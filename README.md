@@ -33,3 +33,4 @@ Project List
 - Inventory management system : https://github.com/tiger-crypto/Inventory-management-system
 - Cardano telegram bot : https://github.com/tiger-crypto/cardano-telegram_bot
 - telegram bot serverless : https://github.com/tigercoin-world/telegram_bot-serverless
+- Cardano Staking Pool node :

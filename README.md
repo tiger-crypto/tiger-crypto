@@ -3,7 +3,7 @@
 * Codestates DevOps Bootcamp
 
 > 현재 구직 중입니다!    
-> github 이력서를 확인해주세요!   
+> 아래 이력서를 확인해주세요!   
 > https://tiger-crypto.github.io/resume/
 
 <h3 align="center">📚 Tech Stack 📚</h3>

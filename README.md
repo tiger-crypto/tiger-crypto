@@ -29,7 +29,7 @@
 
 Project List
 -
-- Smart farm IoT data pipeline : https://github.com/tiger-crypto/Smart-Farm-IoT-data-pipeline-
-- Inventory management system : https://github.com/tiger-crypto/Inventory-management-system
+- Smart farm IoT data pipeline : https://github.com/bitetiger/Smart-Farm-IoT-data-pipeline-
+- Inventory management system : https://github.com/bitetiger/Inventory-management-system
 - Food delivery application : 
-- Cardano telegram bot : https://github.com/tiger-crypto/cardano-telegram_bot
+- Cardano telegram bot : https://github.com/bitetiger/cardano-telegram_bot

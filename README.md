@@ -33,4 +33,3 @@ Project List
 - Inventory management system : https://github.com/tiger-crypto/Inventory-management-system
 - Food delivery application : 
 - Cardano telegram bot : https://github.com/tiger-crypto/cardano-telegram_bot
-- Cardano node tutorial : https://github.com/tiger-crypto/Cardano-node

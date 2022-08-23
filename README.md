@@ -4,7 +4,7 @@
 
 > 현재 구직 중입니다!    
 > 아래 이력서를 확인해주세요!   
-> https://tiger-crypto.github.io/resume/
+> https://wahlberg.notion.site/eaa3dc7886324416b83f4dda71ab57d8
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">

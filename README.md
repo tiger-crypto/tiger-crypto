@@ -31,5 +31,6 @@ Project List
 -
 - Smart farm IoT data pipeline : https://github.com/bitetiger/Smart-Farm-IoT-data-pipeline-
 - Inventory management system : https://github.com/bitetiger/Inventory-management-system
-- Food delivery application : 
+- Food delivery application-frontend : https://github.com/bitetiger/customer_frontend
+- Food delivery application-backend : 
 - Cardano telegram bot : https://github.com/bitetiger/cardano-telegram_bot

@@ -17,6 +17,7 @@
     <br>
     <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-the-badge&logo=Grafana&logoColor=black">
     <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-the-badge&logo=k6&logoColor=black">
+    <img src="https://img.shields.io/badge/MongoDB-33995?style=flat-the-badge&logo=MongoDB&logoColor=black">
     
 </p>
 

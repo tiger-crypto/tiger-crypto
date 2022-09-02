@@ -34,3 +34,4 @@ Project List
 - Inventory management system : https://github.com/bitetiger/Inventory-management-system
 - Food delivery application : https://github.com/bitetiger/food-delivery-application-customer
 - Cardano telegram bot : https://github.com/bitetiger/cardano-telegram_bot
+- Node Explorer application : https://github.com/bitetiger/node_explorer_application.git

@@ -1,6 +1,4 @@
 # :sparkles: Hi! I'm a DevOps Engineer :sparkles:
-* Digital Information Engineering / Chinese Interpretation and Translation
-* Codestates DevOps Bootcamp
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">

@@ -1,3 +1,3 @@
-# :sparkles: Blockchain DevOps Engineer :sparkles:
+# Blockchain DevOps Engineer
 
 blockchain, devops, vata, let's go
